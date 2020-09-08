@@ -650,3 +650,24 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.08-11.41.27:345][  0]LogAssetRegistry: Asset discovery search completed in 4.5268 seconds
 [2020.09.08-11.41.27:350][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2020.09.08-11.41.27:352][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2020.09.08-11.42.56:128][285]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2020.09.08-11.43.16:453][902]LogSlate: Window 'Save Level As' being destroyed
+[2020.09.08-11.43.16:462][902]LogSlate: Took 0.000179 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.08-11.43.16:493][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.08-11.43.16:517][902]LogUObjectHash: Compacting FUObjectHashTables data took   1.13ms
+[2020.09.08-11.43.16:566][902]LogSavePackage: Moving '../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Saved/Level181AC9C0C4085F2FAA22C8F8666962074.tmp' to '../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Content/Level1.umap'
+[2020.09.08-11.43.16:596][902]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Content/Level1_BuiltData.uasset" SILENT=true
+[2020.09.08-11.43.16:621][902]LogSavePackage: Moving '../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Saved/Level1_BuiltData386B2BBC49E62BB2F5C2F2B98C19B0AB.tmp' to '../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Content/Level1_BuiltData.uasset'
+[2020.09.08-11.43.16:638][902]LogFileHelpers: Saving map 'Level1' took 0.180
+[2020.09.08-11.43.16:643][902]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.08-11.43.16:643][902]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2020.09.08-11.43.16:643][902]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
+[2020.09.08-11.43.16:652][902]LogSlate: Took 0.000136 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.09.08-11.43.18:452][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1" FILE="../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Content/Level1.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.09.08-11.43.18:463][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2020.09.08-11.43.18:490][ 81]LogSavePackage: Moving '../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Saved/Level1DBBFF2E143CA29B2775259AF7764F7E5.tmp' to '../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Content/Level1.umap'
+[2020.09.08-11.43.18:502][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level1_BuiltData" FILE="../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Content/Level1_BuiltData.uasset" SILENT=true
+[2020.09.08-11.43.18:524][ 81]LogSavePackage: Moving '../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Saved/Level1_BuiltData6E377812456446E4678476B33870A7DD.tmp' to '../../../../../dev/Ohjelmointiprojektit/unreal-projektit/LTD7012/Content/Level1_BuiltData.uasset'
+[2020.09.08-11.43.18:535][ 81]AssetCheck: New page: Asset Save: multiple assets
+[2020.09.08-11.43.18:535][ 81]LogContentValidation: Display: Validating World /Game/Level1.Level1
+[2020.09.08-11.43.18:535][ 81]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Level1_BuiltData.Level1_BuiltData
